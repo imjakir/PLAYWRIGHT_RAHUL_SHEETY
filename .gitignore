@@ -1,0 +1,11 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+*.png
+state.json
+screenshots/
+**/**snapshots/
+tests/utils/excelDemo_readWrite_updated.xlsx
+/**.xlsx
